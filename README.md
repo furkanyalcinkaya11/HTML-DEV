@@ -1,2 +1,2 @@
-# HTML-DEV
+# HTMLODEV
 HTML 1. BÖLÜM ÖDEV
